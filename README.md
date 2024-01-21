@@ -10,7 +10,7 @@
 ## Technologies used
 
 - **HTML**
-- **CSS**
+- **CSS (2D Animation)**
 - **JavaScript**
 
 ---
